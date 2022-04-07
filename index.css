@@ -1,13 +1,19 @@
+header {font-family: 'Beau Rivage', cursive;
+font-family: 'Lobster', cursive;}
 header {
   background-color:green;
   padding: 40px;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   color: white;
+  width: 100%
 }
 #app {
   width: 100%;
   height:500px;
+}
+#hey {
+  font-family: 'Beau Rivage', cursive;
 }
 #nav {
   background-color:lightgray;
